@@ -8,7 +8,7 @@
 #### 8
 #### 9 Github is really awesome
 #### 10
-#### 11 I love cats
+#### 11 I love both cats and dogs
 #### 12
 #### 13
 #### 14
